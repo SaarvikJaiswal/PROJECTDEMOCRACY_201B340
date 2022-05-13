@@ -1,2 +1,6 @@
 # PROJECTDEMOCRACY
-This project is for promoting democracy in the world. America is a democracy.
+This project is for promoting democracy in the world. 
+America is a democracy.
+Bhutan is not a democracy.
+
+
